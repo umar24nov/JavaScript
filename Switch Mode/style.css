@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: 20% 45%;
+    padding: 1%;
+    font-weight: 500;
+    font-size: medium;
+    cursor: pointer;
+    border-radius: 8px;
+    border: black;
+    background-color: #212121;
+    color: #ffff;
+}
+
+
+
+
+
+

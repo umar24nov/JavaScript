@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.boxes{
+    height: 10rem;
+    width: 10rem;
+    margin: 0.5rem 0rem 0rem 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black ;
+}
+
+.rect #sq4{
+    display: flex;
+}
