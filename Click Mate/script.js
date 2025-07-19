@@ -21,7 +21,7 @@ const sampleFriends = [
         color: 'green'
     },
     {
-        name: 'Ali Shah Mohammad',
+        name: 'Ali Shah',
         relation: 'Cousin',
         image: 'ali.jpg',
         color: 'green'
